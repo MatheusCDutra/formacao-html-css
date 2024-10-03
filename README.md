@@ -20,6 +20,22 @@ Os principais objetivos deste projeto são:
 <h2>📂 Estrutura do Projeto</h2>
 O projeto está organizado da seguinte forma:
 
+```
+/projeto-portfolio/
+|
+├──/assets/ (arquivos de midias)
+|  ├── github.png
+|  ├── imagem.png
+|  ├── instagram.png
+|  └── linkeding.png
+├──/style/ (arquivo CSS)
+|  └── style.css
+├── about.html
+├── curriculo.html
+├── index.html (arquivo HTML principal)
+└── README.md (documentação do projeto)
+
+```
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
@@ -31,7 +47,7 @@ O projeto está organizado da seguinte forma:
 Faça o clone do repositório:
 
 ```
-git clone https://github.com/seu-usuario/projeto-portfolio.git
+https://github.com/MatheusCDutra/formacao-html-css.git
 ```
 
 
