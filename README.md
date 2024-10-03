@@ -1,5 +1,7 @@
 <h1>🌐 Formação em HTML e CSS</h1>
 
+>status do projeto: em desenvolvimento
+
 <h2>📝 Descrição</h2>
 Este projeto foi desenvolvido durante o curso de **HTML e CSS** da [Alura](https://www.alura.com.br/). Ele simula uma página web de portfólio pessoal, com o objetivo de consolidar os conhecimentos adquiridos no curso sobre as principais tags HTML e o uso adequado de CSS para estilização e responsividade.
 
@@ -25,9 +27,10 @@ O projeto está organizado da seguinte forma:
 - **Media Queries**: Técnicas para otimizar a apresentação do conteúdo em diferentes tamanhos de tela.
 
 <h2>🚀 Como Executar o Projeto</h2>
-1. Faça o clone do repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-portfolio.git
+Faça o clone do repositório:
+```
+git clone https://github.com/seu-usuario/projeto-portfolio.git
+```
 
 
 
