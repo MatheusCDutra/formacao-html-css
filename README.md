@@ -22,12 +22,14 @@ O projeto está organizado da seguinte forma:
 
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
+
 - **HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo da página.
 - **CSS3**: Utilizado para estilizar a página e torná-la visualmente atraente e responsiva.
 - **Media Queries**: Técnicas para otimizar a apresentação do conteúdo em diferentes tamanhos de tela.
 
 <h2>🚀 Como Executar o Projeto</h2>
 Faça o clone do repositório:
+
 ```
 git clone https://github.com/seu-usuario/projeto-portfolio.git
 ```
